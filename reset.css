@@ -60,14 +60,14 @@ header p {
 
 #billedsektion {
     float: right;
-    background-color: blue; 
+    background-color: pink; 
     padding: 0.1em;
     margin: 0.5em;
     margin-right: 0;
 } 
 
 #stortbillede {
-    width: 500px;
+    width: 700px;
 }
 
 
@@ -120,7 +120,7 @@ aside h3 {
 
 a:link {
     text-decoration: underline; 
-    color:white;
+    color:turquoise;
     transition: all 3s ease;
 }
 
